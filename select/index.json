@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "シンボル",
+  "base_artist": "シラフ",
+  "createdAt": "2026-03-29T10:02:04.317894Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シンボル",
+      "artist": "ラックライフ",
+      "has_synced": true,
+      "path": "select/01_シンボル_ラックライフ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "シンボル",
+      "artist": "ラックライフ",
+      "has_synced": true,
+      "path": "select/02_シンボル_ラックライフ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シンボル",
+      "artist": "LUCKLIFE",
+      "has_synced": true,
+      "path": "select/03_シンボル_LUCKLIFE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "一世紀前のセックス・シンボル",
+      "artist": "甲斐バンド",
+      "has_synced": false,
+      "path": "select/04_一世紀前のセックス・シンボル_甲斐バンド.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シンボル (feat. TOKYO世界)",
+      "artist": "シラフ",
+      "has_synced": false,
+      "path": "select/pl_01_シンボル_(feat._TOKYO世界)_シラフ.txt"
+    }
+  ]
+}
